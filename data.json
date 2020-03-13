@@ -1,0 +1,69 @@
+{
+   "chats":{
+      "108227806385236264177":{
+         "18859235924":{
+            "activate":"true",
+            "lastMessage":"[Photo]",
+            "messageId":"14714922903188592359242019062374431",
+            "targetName":"BOY",
+            "targetId":"18859235924",
+            "timestamp":"2019-06-23 17:59:52.367931"
+         },
+         "2346756776":{
+            "activate":"true",
+            "lastMessage":"awesome",
+            "messageId":"1471492290323467567762019062357667",
+            "targetName":"hy5",
+            "targetId":"2346756776",
+            "timestamp":"2020-03-13 18:00:14.900322"
+         }
+      }
+   },
+   "users":{
+      "108227806385236264177":{
+         "createAt":"2020-03-12 23:21:23.381369",
+         "email":"a522248050@gmail.com",
+         "id":"108227806385236264177",
+         "photoUrl":"https://lh3.googleusercontent.com/-lcn04hv-ZpQ/AAAAAAAAAAI/AAAAAAAAAAA/AKF05nBvHaJqMiwXiE_7s6lcyxlS3fRUjA/s1337/photo.jpg",
+         "profile":{
+            "bio":"",
+            "education":"",
+            "employment":"",
+            "language":"",
+            "location":""
+         },
+         "updateAt":"2020-03-12 23:21:23.385174",
+         "username":"kl kwok"
+      },
+      "847484846385236264177":{
+         "createAt":"2020-03-11 12:21:23.381369",
+         "email":"gregreg@gmail.com",
+         "id":"847484846385236264177",
+         "photoUrl":"https://www.roparun.nl/wp-content/uploads/2018/07/lightbulb-flat-icon-01-.jpg",
+         "profile":{
+            "bio":"I am an amazing person lalallal fnu4h3fnj  n3u4 ng34n j43hu o89fads 3892 vhab gwhebg423i ",
+            "education":"MBA and BA Economics(First Honor), The Ivy league",
+            "employment":"Investor, Volunteer",
+            "language":"English, Dutch",
+            "location":"Neatherland"
+         },
+         "updateAt":"2020-03-12 23:21:23.385174",
+         "username":"Fk."
+      },
+      "9292992994320492929493":{
+         "createAt":"2020-03-17 12:21:23.381369",
+         "email":"gr4rt42@gmail.com",
+         "id":"9292992994320492929493",
+         "photoUrl":"https://cdn1.iconfinder.com/data/icons/robots-avatars-set/354/Robot_bot___robot_robo_bot_artificial_intelligence-512.png",
+         "profile":{
+            "bio":"I am awesome!!! I am the king of the world lalallal fnu4h3fnj  n3u4 ng34n j43hu o89fads 3892 vhab gwhebg423i ",
+            "education":"MBA and BA Compter Science(First Honor), Harvard University",
+            "employment":"Investor, Volunteer",
+            "language":"English, Dutch, Spanish, Chinese",
+            "location":"Hong Kong"
+         },
+         "updateAt":"2020-03-12 23:21:23.385174",
+         "username":"BOY"
+      }
+   }
+}
